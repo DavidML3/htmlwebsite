@@ -1,0 +1,138 @@
+/* Text Color */
+.bu-color,
+.bu-porfolio-classic:hover .text-holder .link, 
+.bu-testimonials-v1 .text-holder .author-info:before, 
+footer#footer a:hover, 
+footer#footer .bu-footer-nav .footer-nav ul li a:hover, 
+.bu-career-list:hover:before, 
+.blog-post .img-holder figcaption .post-options li:hover a, 
+.blog-post .text-holder .post-options li a:hover, 
+.blog-post .text-holder .post-options li a:hover span,
+.blog-classic .blog-post .text-holder .post-date li a:hover,
+.blog-classic .blog-post .text-holder .post-date li span,
+.blog-classic .blog-post .text-holder h4 a:hover,
+.blog-classic .blog-post .text-holder .post-date li a:hover, 
+.blog-classic .blog-post .img-holder:hover figure:after, 
+.blog-grid .blog-post .text-holder .post-date li a:hover,
+.blog-grid .blog-post .text-holder .post-date li span,
+.blog-grid .blog-post .text-holder h4 a:hover, 
+.blog-grid .blog-post .img-holder figcaption .post-date li a, 
+.bu-blog-post .blog-info .text-holder .post-options li a:hover,
+.bu-blog-post .blog-info .text-holder .post-title:hover h2 a, 
+.single-post .bu-social-media li a:hover, 
+footer#footer .bu-social-media ul li a:hover span, 
+.top-bar .bu-social-media ul li a:hover span,
+.sub-header .breadcrumbs ul li, .sub-header ul.breadcrumbs li,
+.bu-widget-links li:hover:before,
+.widget-search label:after,
+.widget-recent-posts .bu-view-blog,
+.widget-recent-posts .bu-text a:hover,
+.tagcloud a:hover,
+.widget ul li a:hover, 
+.featured-listing ul li .bu-text h6 a:hover,
+.tabs [class^="tab"] label,
+.tabs [class*=" tab"] label,
+.bu-next-previous-post .main-menu .main-menu-btn:hover span,
+.blog-post:hover .text-holder .read-more,
+.blog-classic .blog-post:hover .text-holder .read-more,
+.blog-classic .blog-post .text-holder h4:hover  .post-date li span,
+ blockquote.fancy .author-name:before,
+.single-post .bu-social-media:hover label span,
+.bu-footer-widgets .widget-text ul li span,
+.nav-top-section .text-holder:hover,
+.search-click span,
+.top-bar ul.top-nav li p span,
+.bu-testimonials-v1 .text-holder .author-info h6,
+.bu-porfolio-classic .text-holder span.category,
+.page-title h3,
+.page-title .page-title, 
+.page-title .archive-description
+{color: #e7412a !important;}
+/* Background Color */
+.bu-bgcolor, 
+.pagination > .active > a, 
+.comment-form .submit-btn,
+.main-navigation ul li:hover a:after,
+.bu-dropcap-one p:first-letter,
+.bu-widget-links li:hover:after,
+.section-heading:after,
+.widget ul li:hover:after,
+.slicknav_nav .slicknav_row:hover,
+.slicknav_nav a:hover,
+.bu-next-previous-post .bu-previous .btn-prev:hover span,
+.bu-next-previous-post .bu-next .btn-next:hover span,
+.focus-input100::before,
+{background: #e33d26  !important;}
+/* Border Color */
+.bu-border-color, 
+.bu-porfolio-classic:hover .text-holder, 
+.bu-button-border, 
+.bu-career-list:hover, 
+.widget-recent-posts .bu-view-blog,
+.tagcloud a:hover,
+.slicknav_menu .slicknav_icon-bar,
+{border-color: #e33d26 !important;}
+/*Footer Background Color*/
+#footer{background: #0a1016 !important;}
+.bu-footer-widgets .widget-section-title h3 {text-transform: uppercase !important;color: #FFF;}
+.bu-copyright{background: #0c0c0c !important;}
+/*Transition*/
+.main-navigation ul ul,
+#header .main-navigation ul li.menu-item-has-children a:after,
+#header .main-navigation ul ul li,
+.main-navigation ul li:hover a:after,
+.bu-porfolio-classic, 
+.bu-career-list, 
+.bu-career-list:before, 
+.blog-classic .blog-post .img-holder figure:after, 
+.comment-form .submit-btn, 
+.bu-next-previous-post .main-menu .main-menu-btn i,
+.main-navigation ul li:hover a:after,
+.main-navigation ul li:hover,
+.main-navigation ul li,
+.bu-next-previous-post .bu-previous .btn-prev span,
+.bu-next-previous-post .bu-next .btn-next span,
+.bu-next-previous-post .main-menu .main-menu-btn span,
+.blog-classic .blog-post,
+.grid-classic .blog-post,
+.blog-grid .blog-post:hover .img-holder figure img,
+.blog-grid .blog-post .img-holder figure:before,
+.blog-grid .blog-post .img-holder figure,
+.blog-grid .blog-post .img-holder,
+textarea:focus, input:focus,
+textarea, input,
+.bu-services-classic .img-holder figure img,
+.bu-services-classic:hover,
+.bu-services-classic,
+footer#footer a:hover,
+footer#footer .bu-social-media ul li a:hover span,
+.top-bar .bu-social-media ul li a:hover span
+{-webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out;}
+/* General Border-Radius */
+#header .main-header,
+#header .main-header,
+.main-header .main-nav .slicknav_nav a,
+.messagebox,
+.bu-career-list,
+.comment-form textarea,
+.comment-form input[type='text'],
+.bu-career-list,
+.contact-label .bu-social-media ul li a [class^="ti-"],
+.post-title h3 span,
+.comment-form .submit-btn
+{ border-radius:4px; -moz-border-radius:4px;	-webkit-border-radius:4px;}
+/* General Border-Radius End*/
+/* General Box Shaddow*/
+.blog-classic .blog-post,
+.blog-grid .blog-post,
+{ box-shadow:0 2px 3px rgba(0, 0, 0, 0.1);  -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);  -webkit-box-shadow:0 2px 3px rgba(0, 0, 0, 0.1);  -o-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);  -ms-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);  -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out;}
+.blog-grid .blog-post:hover,
+.blog-classic .blog-post:hover,
+.blog-large .blog-post:hover,
+.bu-services-box:hover,
+{ box-shadow:0 3px 8px rgba(0, 0, 0, 0.2);  -moz-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);  -webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);  -o-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);  -ms-box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);   -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out}
+/* General Box Shaddow*/
+
+/* Overlay Color*/
+.section-bg-6b{    background: -moz-linear-gradient(135deg, rgba(54,83,108,0.6) 0, rgba(231,65,42,0.6) 60%) ;    background: -webkit-linear-gradient(135deg, rgba(54,83,108,0.6) 0, rgba(231,65,42,0.6) 60%);    background: linear-gradient(135deg, rgba(54,83,108,0.6) 0, rgba(231,65,42,0.6) 60%);}
+

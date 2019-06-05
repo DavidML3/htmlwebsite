@@ -1,0 +1,1162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: corporatecorner\n"
+"POT-Creation-Date: 2019-03-04 00:43+0600\n"
+"PO-Revision-Date: 2019-03-04 00:43+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: functions.php:50 functions.php:148
+msgid "Footer"
+msgstr ""
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:123 functions.php:132 functions.php:141 functions.php:150
+#: functions.php:168
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:130
+msgid "Banner"
+msgstr ""
+
+#: functions.php:139 vendors/bpt-customizer/theme-option.php:180
+msgid "Front Page Right Sidebar"
+msgstr ""
+
+#: functions.php:157
+msgid "Single Page Sidebar"
+msgstr ""
+
+#: functions.php:159
+msgid "Post After Details widgets."
+msgstr ""
+
+#: functions.php:166 vendors/bpt-customizer/theme-option.php:200
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: header.php:151
+msgid "Enter your keywords"
+msgstr ""
+
+#: inc/custom-comments.php:15
+msgid "Pingback:"
+msgstr ""
+
+#: inc/custom-comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-comments.php:40
+msgid "Reply"
+msgstr ""
+
+#: inc/custom-comments.php:76
+msgid "Your Name *"
+msgstr ""
+
+#: inc/custom-comments.php:79
+msgid "Your Email *"
+msgstr ""
+
+#: inc/custom-comments.php:82
+msgid "http://your-site-name.com"
+msgstr ""
+
+#: inc/custom-header.php:32
+msgid "Default Header Image"
+msgstr ""
+
+#. translators: %s: search query.
+#: inc/custom-header.php:67
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid " Comments"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:47
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid " By "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:68
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:72
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:75
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:85
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:102 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: single.php:29
+msgid "Prev Post"
+msgstr ""
+
+#: single.php:44
+msgid "Next post"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24
+#: template-parts/post-format/blog-grid-col.php:46
+#: template-parts/post-format/content-video.php:58
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/footer/site-info.php:11
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: template-parts/footer/site-info.php:14
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: template-parts/footer/site-info.php:20
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: template-parts/footer/site-info.php:20
+msgid "https://www.buyprotheme.com/"
+msgstr ""
+
+#: template-parts/footer/site-info.php:20
+msgid "BuyProTheme"
+msgstr ""
+
+#: template-parts/post-format/blog-grid-col.php:37
+#: template-parts/post-format/content-video.php:49
+msgid "Read More"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/post-format/blog-grid-col.php:42
+#: template-parts/post-format/content-video.php:54
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: vendors/activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: vendors/activation/class-tgm-plugin-activation.php:356
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: vendors/activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: vendors/activation/class-tgm-plugin-activation.php:370
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:375
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:380
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:385
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:389
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:390
+#: vendors/activation/class-tgm-plugin-activation.php:831
+#: vendors/activation/class-tgm-plugin-activation.php:2537
+#: vendors/activation/class-tgm-plugin-activation.php:3584
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:391
+#: vendors/activation/class-tgm-plugin-activation.php:3163
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:392
+#: vendors/activation/class-tgm-plugin-activation.php:2956
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:396
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: vendors/activation/class-tgm-plugin-activation.php:398
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:399
+msgid "Dismiss this notice"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:400
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:401
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:526
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:527
+msgid "Update Required"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:938
+#: vendors/activation/class-tgm-plugin-activation.php:941
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:941
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:1125
+#: vendors/activation/class-tgm-plugin-activation.php:2952
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: vendors/activation/class-tgm-plugin-activation.php:1986
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2277
+msgid "Required"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2280
+msgid "Recommended"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2296
+msgid "WordPress Repository"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2299
+msgid "External Source"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2302
+msgid "Pre-Packaged"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2319
+msgid "Not Installed"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2323
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2325
+msgid "Active"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2331
+msgid "Required Update not Available"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2334
+msgid "Requires Update"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2337
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: vendors/activation/class-tgm-plugin-activation.php:2346
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: vendors/activation/class-tgm-plugin-activation.php:2392
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: vendors/activation/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: vendors/activation/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: vendors/activation/class-tgm-plugin-activation.php:2404
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2486
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2494
+msgid "Installed version:"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2502
+msgid "Minimum required version:"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2514
+msgid "Available version:"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2537
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2551
+msgid "Plugin"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2552
+msgid "Source"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2553
+msgid "Type"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2557
+msgid "Version"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2558
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/activation/class-tgm-plugin-activation.php:2607
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/activation/class-tgm-plugin-activation.php:2612
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: vendors/activation/class-tgm-plugin-activation.php:2618
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2688
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2721
+msgid "Install"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2727
+msgid "Update"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2730
+msgid "Activate"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2761
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2763
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2804
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2912
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:2938
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3162
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/activation/class-tgm-plugin-activation.php:3502
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: vendors/activation/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3513
+#: vendors/activation/class-tgm-plugin-activation.php:3521
+msgid "Show Details"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3513
+#: vendors/activation/class-tgm-plugin-activation.php:3521
+msgid "Hide Details"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3514
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/activation/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3519
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: vendors/activation/class-tgm-plugin-activation.php:3521
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: vendors/activation/class-tgm-plugin-activation.php:3522
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: vendors/activation/class-tgm-plugin-activation.php:3524
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: vendors/bpt-customizer/class-customize.php:79
+msgid "Corporate Corner Pro"
+msgstr ""
+
+#: vendors/bpt-customizer/class-customize.php:80
+msgid "Go Pro"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:23
+msgid "Header"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:34
+msgid "Header Location"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:44
+msgid "Mobile Number"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:54
+msgid "Email"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:64
+msgid "Time"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:73
+msgid "Blog"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:86
+msgid "Blog Style"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:88
+msgid "Blog grid"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:89
+msgid "Blog Large List"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:90
+msgid "Blog Medium"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:98
+msgid "Social"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:109
+msgid "Facebook"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:119
+msgid "Twitter"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:129
+msgid "Google Plus"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:139
+msgid "Linkedin"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:149
+msgid "Youtube"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:159
+msgid "Instagram"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:169
+msgid "Theme Settings"
+msgstr ""
+
+#: vendors/bpt-customizer/theme-option.php:190
+msgid "Header Social Icon"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:221
+msgid "Browse:"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:222
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:223
+msgid "Home"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:224
+msgid "404 Not Found"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:225
+msgid "Archives"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:227
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:229
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:231
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:233
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:235
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:590
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:604
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:618
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:631
+#: vendors/breadcrumbs/breadcrumbs.php:654
+#: vendors/breadcrumbs/breadcrumbs.php:675
+#: vendors/breadcrumbs/breadcrumbs.php:696
+#: vendors/breadcrumbs/breadcrumbs.php:960
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:632
+#: vendors/breadcrumbs/breadcrumbs.php:676
+#: vendors/breadcrumbs/breadcrumbs.php:963
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:633
+#: vendors/breadcrumbs/breadcrumbs.php:966
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: vendors/breadcrumbs/breadcrumbs.php:655
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:41 vendors/pro/bpt-admin-page.php:117
+msgid "About"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/pro/bpt-admin-page.php:79
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/pro/bpt-admin-page.php:84
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/pro/bpt-admin-page.php:98
+msgid "Dismiss"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/pro/bpt-admin-page.php:99
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing corporatecorner! To fully take advantage of "
+"the best our theme can offer please make sure you visit our %1$swelcome page"
+"%2$s."
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:101
+msgid "Get started with corporatecorner"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:124
+msgid "Theme Info"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:126
+msgid "View PRO version Demo"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:128
+msgid "Rate this theme"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:141
+msgid "Free Vs PRO"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:144
+msgid "Changelog"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:179
+msgid "Theme Customizer"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:180
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: vendors/pro/bpt-admin-page.php:181
+msgid "Customize"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:185
+msgid "Got theme support question?"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:186
+msgid "Please put it in our support forum."
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:187
+msgid "Support"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:191
+msgid "Need more features?"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:192 vendors/pro/bpt-admin-page.php:275
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:193
+msgid "Info about PRO version"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:203
+msgid "Return to Updates"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:203
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:206
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:206
+msgid "Go to Dashboard"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:223
+msgid "View changelog below:"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:280
+msgid "Features"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:281
+msgid "Free version"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:282
+msgid "Pro version"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:287
+msgid "Footer Copyright Credit"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:292
+msgid "24/7 Priority Support"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:293
+msgid "WP forum"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:294
+msgid "Ticket, email , Skype & Teamviewer"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:297
+msgid "Theme Layout"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:298
+msgid "Container"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:299
+msgid "Container And fluid"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:302
+msgid "Home Page Layout Options"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:307
+msgid "Default Banner"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:312
+msgid "Banner Widgets"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:317
+msgid "Navigation Color"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:322
+msgid "Responsive Design"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:327
+msgid "Post format"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:332
+msgid "Unlimited Text Color"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:337
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:342
+msgid "Custom Theme Color"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:347
+msgid "Logo Upload"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:352
+msgid "Choose Social Icon "
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:357
+msgid "Extended Theme Options Panel"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:362
+msgid "Styling for most of all sections"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:367
+msgid "Google Fonts Supported (500+ Fonts)"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:372
+msgid "Custom Preloader"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:377
+msgid "Page Layout Style"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:382
+msgid "Blog Layout Style"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:387
+msgid "Blog Gird Style"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:392
+msgid "Breadcrumb"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:397
+msgid "  Footer/Copyright Section"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:402
+msgid "WP-Admin Welcome Section"
+msgstr ""
+
+#: vendors/pro/bpt-admin-page.php:411
+msgid "More Information"
+msgstr ""
+
+#: vendors/wp-bootstrap-navwalker/wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "corporatecorner"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.buyprotheme.com/product/corporatecorner"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CorporateCorner is a clean responsive WordPress Free theme with lots of "
+"useful and essential features. It is especially designed for Construction "
+"Services, Advising Agencies, Law Firm, Business, Consultancy Agencies, "
+"Creative Agencies, General Corporate Websites, Finance, insurance companies "
+"and all kind of companies engaged in providing professional or creative "
+"services. This theme comes with super powerful and easy page builder. "
+"CorporateCorner is very powerful, unique, clean and modern design and this "
+"theme is 100% responsive so that you can get powerful experience in any "
+"device. It comes with necessary feature for your website such as blog, "
+"portfolio, testimonial, etc. This template is built on bootstrap framework, "
+"fits any device nicely & perfectly. You can easily customize and build your "
+"own website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "bdrabin"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.buyprotheme.com"
+msgstr ""

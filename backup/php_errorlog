@@ -1,0 +1,10 @@
+[18-May-2019 16:35:52 UTC] WordPress database error Duplicate entry '61' for key 'PRIMARY' for query UPDATE wp_posts SET ID='61' WHERE ID = 98 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, SiteGround_Wizard\Importer\Importer->pre_import, SiteGround_Wizard\Importer\Importer->import, SiteGround_Wizard\Importer\Plugin_Importer_Wpforms->import_json
+[18-May-2019 16:35:52 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Post as array in /home/kaddatec/public_html/wp-content/plugins/wpforms-lite/includes/class-form.php:503
+Stack trace:
+#0 /home/kaddatec/public_html/wp-content/plugins/wpforms-lite/includes/class-form.php(310): WPForms_Form_Handler->get_meta('61')
+#1 /home/kaddatec/public_html/wp-content/plugins/wordpress-starter/core/Importer/Plugin_Importer_Wpforms.php(65): WPForms_Form_Handler->update('61', Array)
+#2 /home/kaddatec/public_html/wp-content/plugins/wordpress-starter/core/Importer/Importer.php(108): SiteGround_Wizard\Importer\Plugin_Importer_Wpforms->import_json('[{"id":"61","fi...')
+#3 /home/kaddatec/public_html/wp-content/plugins/wordpress-starter/core/Importer/Importer.php(71): SiteGround_Wizard\Importer\Importer->import(Array)
+#4 /home/kaddatec/public_html/wp-includes/rest-api/class-wp-rest-server.php(946): SiteGround_Wizard\Importer\Importer->pre_import(Object(WP_REST_Request))
+#5 /home/kaddatec/public_html/wp-includes/rest-api/class-wp-rest-server.php(329): WP_R in /home/kaddatec/public_html/wp-content/plugins/wpforms-lite/includes/class-form.php on line 503
+[21-May-2019 21:54:11 UTC] PHP Warning:  Declaration of WP_CLI\CoreUpgrader::download_package($package) should be compatible with WP_Upgrader::download_package($package, $check_signatures = false) in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/vendor/wp-cli/core-command/src/WP_CLI/CoreUpgrader.php on line 145

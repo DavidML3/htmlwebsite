@@ -1,0 +1,97 @@
+#customize-controls .control-section-vw-tour-lite .accordion-section-title:hover,
+#customize-controls .control-section-vw-tour-lite .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-vw-tour-lite .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-vw-tour-lite .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+/* ---------Customizer--------- */
+  
+.control-section-vw-tour-lite h3.accordion-section-title {
+  	background: #1C3248 !important;
+  	color: #fff !important;
+}
+a.button.button-secondary.alignright {
+  	color: #fff;
+  	box-shadow: 2px 2px 0px 0px #fff;
+  	border: solid 1px #fff;
+  	border-bottom: none;
+  	background: #0073aa;
+  	font-weight: bold;
+  	border-radius: 8px;
+}
+a.button.button-secondary.alignright:hover {
+	background: #eee;
+	color: #000;
+}
+
+.customize-control-title {
+    display: -webkit-inline-box;
+    font-size: 12px;
+    line-height: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    background: #0085ba;
+    padding: 0px 15px;
+    color: #fff;
+}
+
+/*------- Typogarphy ----------*/
+
+.customize-control-typography li.typography-font-weight,
+.customize-control-typography li.typography-font-style,
+.customize-control-typography li.typography-font-size,
+.customize-control-typography li.typography-line-height {
+  float: left;
+  width: 50%;
+}
+.customize-control-typography li.typography-font-weight select,
+.customize-control-typography li.typography-font-style select {
+  width: 90%;
+}
+.customize-control-typography li.typography-font-weight,
+.customize-control-typography li.typography-font-size {
+  clear: both;
+}
+.customize-control-typography li.typography-font-size input,
+.customize-control-typography li.typography-line-height input {
+  width: 75px;
+}
+input.typography-font-color {
+  padding: 0;
+  margin: 0;
+}
+li#customize-control-vw_tour_lite_h1_typography,
+li#customize-control-vw_tour_lite_h2_typography,
+li#customize-control-vw_tour_lite_h3_typography,
+li#customize-control-vw_tour_lite_h4_typography,
+li#customize-control-vw_tour_lite_h5_typography,
+li#customize-control-vw_tour_lite_p_typography {
+  border-bottom: solid 2px #1e1e1e1e;
+  padding-bottom: 12px;
+}
+
+
+/* ---------Image Toggle --------- */
+img.vw-tour-lite-radio-img-img {
+   /* border: solid 2px;*/
+    width: 80px;
+}
+
+/* ---------Excerpt & Logo --------- */
+input#_customize-input-vw_tour_lite_excerpt_number,
+input#_customize-input-logo_size,
+input#_customize-input-vw_tour_lite_excerpt_number1,
+input#_customize-input-vw_tour_lite_excerpt_number2
+{
+    width: 100%;
+}
